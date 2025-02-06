@@ -1,6 +1,6 @@
 # Book settings
-title: Statistics and Data Science
-author: Kyle Cranmer
+title: ICC
+author: Daniel Borin
 logo: logo.png
 copyright: ""
 
@@ -13,7 +13,7 @@ execute:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/cranmer/stats-ds-book
+  url: https://github.com/danielborin/ICC1
   path_to_book: book
   branch: master
 
@@ -22,7 +22,7 @@ html:
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: true
-  google_analytics_id: UA-178330963-1
+  google_analytics_id: ""
   comments:
     hypothesis: true
   extra_footer : |
@@ -37,7 +37,7 @@ sphinx:
   - sphinxext.opengraph
   html_show_copyright: false
   config:
-    ogp_site_url: "https://cranmer.github.io/stats-ds-book/"
+    ogp_site_url: "https://danielborin.github.io/ICC1/"
     ogp_image: "https://cranmer.github.io/stats-ds-book/_images/Neyman-pearson.006.png"
     ogp_description_length: 200
     mathjax_config:
